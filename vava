@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,A Fazenda
+http://topclientehd.ddns.net:8080/Vagner/Vagner/2
+#EXTINF:-1,Combate 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_9e3955c3173acf1de7c45f6f5666691f71a33d6c/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/cinemax480p_22d200f8_8ea52a1508433bc4179d304afeda9d8e4047d46f.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_d31a721d66839cfc3eed5318ccf3d206c1dc157e/playlist.m3u8
+#EXTINF:-1,HBO2
+http://topclientehd.ddns.net:8080/Vagner/Vagner/271
+#EXTINF:-1,Warner Channel
+http://topclientehd.ddns.net:8080/Vagner/Vagner/337
+#EXTINF:-1,Max Prime
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/maxprime_9c676e00_a7c1a0dba7dcdd39b0c6270fd6af6754dcba80b7.m3u8
+#EXTINF:-1,Telecine Action HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_b3cb33b5c9e5edce694e76a835102fd22d9afd29/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_7e30490aa97728f6a872763babdb2ca3352c869b/playlist.m3u8
+#EXTINF:-1,Warner Channel
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/warnerchannel_0a57cb53_6374f63f41a96f20820774f282dd64ae6d80be1c.m3u8
+#EXTINF:-1,Record tv
+http://topclientehd.ddns.net:8080/Vagner/Vagner/70
